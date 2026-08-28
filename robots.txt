@@ -3,8 +3,8 @@ Allow: /
 Disallow: /assets/demo/
 Disallow: /*?*
 Clean-param: utm_source&utm_medium&utm_campaign&utm_content&utm_term&yclid&gclid&sub1 /
-Host: sugarrushwin1.vercel.app
-Sitemap: https://sugarrushwin1.vercel.app/sitemap.xml
+Host: sugarrushslot.site
+Sitemap: https://sugarrushslot.site/sitemap.xml
 
 User-agent: *
 Allow: /
